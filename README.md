@@ -7,3 +7,12 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
 * Quiz 2 – 10
 * Assignment 2 – 10
 * Others – 10
+
+# Lecture Contents
+* Week 1
+    * Lecture 1 (04 January, Wednesday)
+        - Introduction
+            - What and Why
+    * Lecture 2 (07 January, Saturday)
+        - Introduction (contd.)
+            - Examples

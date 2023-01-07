@@ -9,7 +9,6 @@ header-includes:
 ---
 
 # Introduction
-## What and Why
 A graph is a set of nodes connected by edges. Edges may be directed or undirected.  
 Graphs can be represented using an *adjacency matrix*, which records which pairs of nodes are neighbours.
 
