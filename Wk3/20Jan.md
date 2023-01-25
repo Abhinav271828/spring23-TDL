@@ -2,7 +2,7 @@
 title: Topics in Deep Learning (CS7.602)
 subtitle: |
           | Spring 2023, IIIT Hyderabad
-          | 20 January, Wednesday (Lecture 3)
+          | 20 January, Friday (Lecture 5)
 author: Taught by Prof. Charu Sharma
 header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}

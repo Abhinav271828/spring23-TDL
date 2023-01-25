@@ -22,5 +22,7 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
     * Lecture 4 (14 January, Saturday)    
         - [missed]
 * Week 3
-    * Lecture 5 (20 January, Saturday)
-        - 
+    * Lecture 5 (20 January, Friday)
+* Week 4
+    * Lecture 6
+        - Kernel Methods
