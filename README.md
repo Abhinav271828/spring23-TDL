@@ -28,3 +28,6 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
         - Kernel Methods
     * Lecture 7 (28 January, Saturday)
         - DL with Graphs
+* Week 5
+    * Lecture 8 (01 February, Wednesday)
+	- [missed] Node Embeddings
