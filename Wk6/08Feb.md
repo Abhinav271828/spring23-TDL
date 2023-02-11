@@ -8,7 +8,7 @@ header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}
 ---
 
-## GNNs
+# GNNs
 ## A GNN Layer
 ### Message
 The "message" passed between nodes at each layer is computed from each neighbour of the current node, and the node itself.

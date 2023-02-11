@@ -31,5 +31,17 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
 * Week 5
     * Lecture 8 (01 February, Wednesday)
 	    - [missed] Node Embeddings
+* Week 6
     * Lecture 9 (08 February, Wednesday)
-        - 
+        - GNNs
+            - A GNN Layer
+                - Message
+                - Aggregation
+            - Other Architectures
+            - Over-smoothing
+    * Lecture 10 (11 February, Saturday)
+        - GNNs (contd.)
+            - Training
+                - Negative Sampling
+                - Random Walks
+        - Graph Embeddings
