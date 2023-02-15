@@ -45,3 +45,9 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
                 - Negative Sampling
                 - Random Walks
         - Graph Embeddings
+* Week 7
+    * Lecture 11 (15 February, Wednesday)
+        - Page Rank
+        - Matrix Factorisation and Node Embeddings
+            - Adjacency
+            - Co-Occurrence
