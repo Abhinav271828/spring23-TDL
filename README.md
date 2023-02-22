@@ -51,3 +51,8 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
         - Matrix Factorisation and Node Embeddings
             - Adjacency
             - Co-Occurrence
+* Week 8
+    * Lecture 12 (22 February, Wednesday)
+        - Relational GCN
+            - Heterogenous Graphs
+            - Architecture
