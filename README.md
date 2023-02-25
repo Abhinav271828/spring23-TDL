@@ -56,3 +56,5 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
         - Relational GCN
             - Heterogenous Graphs
             - Architecture
+    * Lecture 13 (25 February, Saturday)
+        - Attention
