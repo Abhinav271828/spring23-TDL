@@ -58,3 +58,8 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
             - Architecture
     * Lecture 13 (25 February, Saturday)
         - Attention
+* Week 9
+    * Lecture 14 (04 March, Saturday)
+        - Attention (contd.)
+        - The Theory of GNNs
+        - Graph Isomorphism Networks
