@@ -63,3 +63,7 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
         - Attention (contd.)
         - The Theory of GNNs
         - Graph Isomorphism Networks
+* Week 10
+    * Lecture 15 (11 March, Saturday)
+        - Knowledge Graphs
+            - KG Representations
