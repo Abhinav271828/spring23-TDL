@@ -67,3 +67,12 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
     * Lecture 15 (11 March, Saturday)
         - Knowledge Graphs
             - KG Representations
+* Week 11
+    * Lecture 16 (15 March, Wednesday)
+        - [missed]
+* Week 12
+    * Lecture 17 (25 March, Saturday)
+        - Probabilistic Graphical Models
+            - Independence
+            - Markov Models
+                - Hidden Markov Models
