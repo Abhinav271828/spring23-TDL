@@ -76,3 +76,7 @@ Notes and resources for the Topics in Deep Learning course at IIIT Hyderabad.
             - Independence
             - Markov Models
                 - Hidden Markov Models
+* Week 13
+    * Lecture 18 (29 March, Wednesday)
+        - Probabilistic Graphical Models (contd.)
+            - Undirected PGMs
